@@ -26,6 +26,14 @@ I've recently discoered the [Willemstad](https://github.com/tingmelvin/willemsta
 - color-accent: 
 	- Liiv
 
+![No Nonsense](./imgs/no_nonsense.png)
+**No Nonsense**:
+- color-base: 
+	- Default
+	- One Dark 
+- color-accent:
+	- Ash
+
 
 # Light Themes 
 ![Beige Haze](./imgs/Beige_Haze.png)
@@ -43,3 +51,20 @@ I've recently discoered the [Willemstad](https://github.com/tingmelvin/willemsta
 	- Arcade Glow
 - color-accent:
 	- Vine 
+
+![Light Library](./imgs/Light_Library.png)
+**Light Library**
+- color-base: 
+	- Vivid
+	- Lemon Chiffon
+- color-accent:
+	- Tuscany
+
+
+![Good Old Days](./imgs/good_old_days.ong)
+**Good Old Days**
+- color-base:
+	- Glow
+	- Solarized 
+- color-accent:
+	- Van Gogh (Sunflowers) 
