@@ -61,7 +61,7 @@ I've recently discoered the [Willemstad](https://github.com/tingmelvin/willemsta
 	- Tuscany
 
 
-![Good Old Days](./imgs/good_old_days.ong)
+![Good Old Days](./imgs/good_old_days.png)
 **Good Old Days**
 - color-base:
 	- Glow
